@@ -1,6 +1,4 @@
-/*Shirley Dsouza
-  SE 6745 Batch:A
-  Program :Implementing Expression tree*/
+/*: Expression tree*/
 
 #include<stdio.h>
 #include<stdlib.h>
